@@ -6,7 +6,7 @@
   <servers>
     <server>
       <id>Maven_Project_Snapshot</id>
-      <username>maven-sam</username>
+      <username>Maven_Project</username>
       <password>123</password>
     </server>
   </servers>
