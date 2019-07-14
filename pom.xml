@@ -15,4 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<distributionManagement>
+    <snapshotRepository>
+      <id>Maven_Project_Snapshot</id>
+      <name>Maven_Project_Snapshot</name>
+      <url>http://ec2-13-232-184-77.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/Maven_Project_Snapshot/</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
